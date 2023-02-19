@@ -1,0 +1,5 @@
+C:\Users\dell\Lectures\Day21\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Day21\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Day21\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Day21\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.AssemblyInfo.cs
+C:\Users\dell\Lectures\Day21\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.csproj.CoreCompileInputs.cache
